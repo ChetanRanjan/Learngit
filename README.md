@@ -1,0 +1,2 @@
+LEARNING GIT
+MERGING BUG branch with the MASTER
